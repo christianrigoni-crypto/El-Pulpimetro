@@ -1,6 +1,8 @@
+
+Ejemplo para la versión con modo oscuro:
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/christianrigoni-crypto/El-Pulpimetro/releases/download/v1.4/El-Pulpimetro-1.4.apk",
-  "mensaje": "Nueva versión con ícono moderno, copia de seguridad, restauración y registro gráfico mensual de ingresos."
+  "versionCode": 5,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/christianrigoni-crypto/El-Pulpimetro/releases/download/v1.5/El-Pulpimetro-1.5.apk",
+  "mensaje": "Nueva versión con colaboración mediante copia de CBU."
 }

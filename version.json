@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.1",
-  "apkUrl": "https://github.com/christianrigoni-crypto/El-Pulpimetro/releases/download/v1.7.1/El-Pulpimetro-1.7.1-definitivo.apk",
-  "mensaje": "Nueva versión con firma definitiva, carga de paritarias, verificación de recibos, calendario y mejoras generales."
+  "versionCode": 10,
+  "versionName": "1.7.2",
+  "apkUrl": "https://github.com/christianrigoni-crypto/El-Pulpimetro/releases/download/v1.7.2/El-Pulpimetro-1.7.2.apk",
+  "mensaje": "Nueva versión con guardado directo de copias de seguridad en Google Drive."
 }
